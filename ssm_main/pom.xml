@@ -18,7 +18,7 @@
     <!-- 1.作为父工程，抽取子工程依赖 -->
     <!--统一定义各个组件的版本-->
     <properties>
-        <spring_version>5.0.2.RELEASE</spring_version>
+        <spring_version>5.2.20.RELEASE</spring_version>
         <aspectJ>1.8.7</aspectJ>
     </properties>
 
